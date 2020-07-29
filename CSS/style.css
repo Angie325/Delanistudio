@@ -1,0 +1,116 @@
+body {
+    height: 100vh;
+}
+
+
+.introduction{
+    background-image: url("../images/h_img.jpg");
+    background-size: cover;
+    height: 720px;
+    text-align: center;
+    color: white;
+
+}   
+
+
+ .services{
+     background-image: url('../images/s_image.jpg');
+     background-size: cover;
+     text-align: center;
+     color: white;
+     font-size: small;
+     font-family: Arial, Helvetica, sans-serif;
+
+ }
+.hide{
+    display: none;
+}
+.go center{
+    height: 300px;
+    max-width: 300;
+    padding: 0;
+
+}  
+.row {
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+} 
+
+.Hover {
+    opacity: 0;
+    display: flex;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    bottom: 0%;
+    left: 0%;
+    transition: ease;
+}
+.contact-us {
+    background-image: url("../images/c_image.jpg");
+    background-size: cover;
+    height: 520px;
+    
+
+}
+input[type=text] {
+    background: transparent;
+    color: white;
+    
+}
+textarea {
+    background-color: black;
+    color: white;
+    opacity: 0.4;
+}
+::placeholder {
+    color: white;
+
+}
+
+.social-icons {
+     padding-left: 27%;
+
+}
+
+.portfolio {
+    height: 720px;
+    position: relative;
+}
+
+
+    
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+   
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
